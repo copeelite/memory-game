@@ -1,0 +1,25 @@
+#grid{
+    width: 400px;
+    height: 300px;
+    display:flex;
+    flex-wrap: wrap;
+    
+
+}
+h3{
+        color: black;
+    }
+
+button{
+    background:orange;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
